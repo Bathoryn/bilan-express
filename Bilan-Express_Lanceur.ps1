@@ -5,6 +5,12 @@
     v1.1.2 (02/11/2026) : plus de fenêtre cachée ni de commande encodée (faux positif Defender).
     Rien n'est modifié sur le PC : le blocage des scripts n'est levé que pour ce lancement.
 #>
+# ==============================================================================
+# (c) 2026 Sebastien Mastain - Tous droits reserves. Diffuse sous la marque Pactio.
+# Licence : outil gratuit, usage libre y compris chez vos clients.
+# Interdit : revendre ou redistribuer ce script ailleurs que depuis ses pages officielles.
+# Contact : contact@serenit38.fr
+# ==============================================================================
 
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing

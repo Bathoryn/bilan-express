@@ -1,4 +1,6 @@
 @echo off
+rem (c) 2026 Sebastien Mastain - Tous droits reserves. Diffuse sous la marque Pactio.
+rem Gratuit. Revente et redistribution interdites. Voir LICENCE.txt.
 rem Pactio - Bilan express : double-cliquez sur ce fichier pour lancer le bilan.
 rem Ouvre la fenetre des options, puis le bilan dans une fenetre PowerShell visible.
 rem Lecture seule : rien n'est modifie sur le PC.

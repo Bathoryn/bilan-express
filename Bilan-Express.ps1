@@ -38,6 +38,12 @@
     Droits    : fonctionne en utilisateur standard ; en administrateur, le bilan est plus complet.
     Licence   : usage libre, y compris chez vos clients. Redistribution interdite.
 #>
+# ==============================================================================
+# (c) 2026 Sebastien Mastain - Tous droits reserves. Diffuse sous la marque Pactio.
+# Licence : outil gratuit, usage libre y compris chez vos clients.
+# Interdit : revendre ou redistribuer ce script ailleurs que depuis ses pages officielles.
+# Contact : contact@serenit38.fr
+# ==============================================================================
 
 [CmdletBinding()]
 param(
